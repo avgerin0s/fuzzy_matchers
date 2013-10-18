@@ -1,4 +1,4 @@
-# FuzzyMatcher
+# FuzzyMatchers
 
 A Fuzzy Matcher that helps when checking equality over complex data.
 
@@ -8,7 +8,7 @@ At the moment it just checks for equality.
 
 Add this line to your application's Gemfile:
 
-    gem 'fuzzy_matcher'
+    gem 'fuzzy_matchers'
 
 And then execute:
 
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install fuzzy_matcher
+    $ gem install fuzzy_matchers
 
 ## Usage
 
